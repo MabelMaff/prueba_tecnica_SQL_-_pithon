@@ -1,4 +1,4 @@
-# Ejercicio Técnico para Analista de Datos Junior
+# Ejercicio Técnico para Analista de Datos Junior 🤖
 
 Bienvenido al repositorio del ejercicio de Analista de Datos. Este ejercicio está diseñado para demostrar habilidades esenciales para el rol de Analista de Datos Junior. A continuación, se presenta una descripción del ejercicio y de los archivos incluidos en este repositorio.
 
@@ -37,7 +37,7 @@ Para cualquier pregunta o aclaración, puedes contactar conmigo a través de [Li
 
 ---
 
-# Junior Data Analyst Exercise
+# Junior Data Analyst Exercise 🤖
 
 Welcome to the repository for the Data Analyst exercise. This exercise is designed to demonstrate essential skills for the role of a Junior Data Analyst. Below is a description of the exercise and the files included in this repository.
 
